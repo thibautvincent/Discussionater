@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Discussionater</string>
+    <string name="add_discussion">Add discussion</string>
+    <string name="title_activity_add_discussion">AddDiscussionActivity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_discussion_question">Question:</string>
+    <string name="add_discussion_first_answer">First Answer:</string>
+    <string name="add_discussion_second_answer">Second Answer:</string>
+    <string name="add_discussion_compensation">Compensation:</string>
+    <string name="add_discussion_button_save">Save</string>
+    <string name="title_activity_discussion_detail">DiscussionDetailActivity</string>
+    <string name="detail_first_answer">First answer:</string>
+    <string name="detail_second_answer">Second answer:</string>
+    <string name="detail_compensation">Compensation:</string>
+    <string name="title_activity_show_stats">ShowStatsActivity</string>
+    <string name="stats_my_wins">My wins:</string>
+    <string name="stats_wins_friend">Friend wins:</string>
+    <string name="stats_total_discussions">Total discussions:</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="total_discussions_solved">Total discussions solved:</string>
+</resources>
